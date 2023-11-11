@@ -19,5 +19,21 @@ site:
       url: https://mystmd.org/guide
   domains: []
 
+  home_page_in_navbar: false
+  use_edit_page_button: false
+  use_repository_button: false
+  use_issues_button: false
+  baseurl: fhbk.de
+  analytics:
+    google_analytics_id = ''
+
+repository:
+  url: https://github.com/LehrerLiebelt/LehrerLiebelt.github.io
+  branch: gh-pages
+#  path_to_book: 
+
 launch_buttons:
-  notebook_interface: "jupyterlab"  # or "classic"
+#  notebook_interface: "classic" # The interface interactive links will activate ["classic", "jupyterlab"]
+  binderhub_url: "https://mybinder.org"
+#  colab_url: "https://colab.research.google.com"
+  thebe: true
