@@ -3,8 +3,8 @@ version: 1
 project:
   titel: eine Überschrift
   # description:
-  jupyter: 
-      lite: true
+  jupyter: true
+#      lite: true
   keywords: []
   authors: []
   github: https://github.com/LehrerLiebelt
