@@ -3,7 +3,7 @@ version: 1
 project:
   titel: eine Überschrift
   # description:
-  jupyter: true
+  jupyter: 'binder'
 #      lite: true
   keywords: []
   authors: []
